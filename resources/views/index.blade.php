@@ -11,7 +11,7 @@
     <title>Jenz Innovations | Home</title>
 
     <!-- Favicon  -->
-    <link rel="icon" href="{{ asset('assets/img/core-img/favicon.ico') }}">
+    <link rel="icon" href="{{ asset('assets/img/core-img/logo-NEW.png') }}">
 
     <!-- Core Style CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/core-style.css') }}">

@@ -55,7 +55,7 @@
                     <div class="main-menu h-100">
                         <nav class="navbar h-100 navbar-expand-lg">
                             <!-- Logo Area  -->
-                            <a class="navbar-brand" href="/"><img src="{{ asset('assets/img/core-img/NEW-logo/2024-06-15 - jesse.png') }}" alt="Logo" width="70%"></a>
+                            <a class="navbar-brand" href="/"><img src="{{ asset('assets/img/core-img/NEW-logo/20240615jesse.webp') }}" alt="Logo" width="70%"></a>
 
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#studioMenu" aria-controls="studioMenu" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i> Menu</button>
 
